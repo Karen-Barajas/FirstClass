@@ -1,0 +1,7 @@
+C:\Users\karen\source\repos\First Class\First Class\bin\Debug\First Class.exe.config
+C:\Users\karen\source\repos\First Class\First Class\bin\Debug\First Class.exe
+C:\Users\karen\source\repos\First Class\First Class\bin\Debug\First Class.pdb
+C:\Users\karen\source\repos\First Class\First Class\obj\Debug\First Class.csproj.AssemblyReference.cache
+C:\Users\karen\source\repos\First Class\First Class\obj\Debug\First Class.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\First Class\First Class\obj\Debug\First Class.exe
+C:\Users\karen\source\repos\First Class\First Class\obj\Debug\First Class.pdb
